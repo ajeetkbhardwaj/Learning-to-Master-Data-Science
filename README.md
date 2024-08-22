@@ -1,2 +1,3 @@
-# Scipy-lab-practice
-Scipy Library Syntax practice
+# Learning to Master Data Science
+
+
