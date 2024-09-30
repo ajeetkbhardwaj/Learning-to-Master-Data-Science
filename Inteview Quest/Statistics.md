@@ -82,8 +82,13 @@ header:  "**Ajeet Kumar Bhardwaj**"
 
 24. **What is Hypothesis testing? Where do we use it ?**
 
+---
+
 25. **What is Interquartile range ?**
 
 26. **What is Conditional Probability? How is it related to Bayes Theorem ?**
 
+
 27. ** Can you explain the Joint and Marginal Probability ?**
+
+28. **What is the difference Between Probability Mass function and Probability Distribution Function ?**
