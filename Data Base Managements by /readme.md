@@ -1,6 +1,6 @@
 # Database Management by
 
-## Lectures
+## Lectures of Interest
 
 1. Course Overview
    [https://www.youtube.com/watch?v=OMHbGm9SQuE](https://www.youtube.com/watch?v=OMHbGm9SQuE)
